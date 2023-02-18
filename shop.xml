@@ -380,13 +380,13 @@
 			<Param Condition="" Aid="AID_ソルムの高貴な服２" />
 			<Param Condition="" Aid="AID_ソルムの平素な服２" />
 			<Param Condition="" Aid="AID_水着1" />
+			<Param Condition="" Aid="AID_水着3" />
 			<Param Condition="" Aid="AID_仮装マスク" />
 			<Param Condition="" Aid="AID_EngageEirika" />
 			<Param Condition="" Aid="AID_EngageEirikaDye" />
 			<Param Condition="M020" Aid="" />
 			<Param Condition="" Aid="AID_イルシオンの高貴な服２" />
 			<Param Condition="" Aid="AID_イルシオンの平素な服２" />
-			<Param Condition="" Aid="AID_水着3" />
 			<Param Condition="" Aid="AID_眼帯" />
 			<Param Condition="M999" Aid="" />
 			<Param Condition="" Aid="AID_EngageEdelgard" />
