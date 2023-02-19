@@ -12,7 +12,10 @@ Built on top of Battle Outfits Mod
 
 #### god.xml
 
-- Added `Battlewise` and `Adaptability` to Ike Sync Skills
+- Changed Ike:
+    - Replaced `Reposition` with `Battlewise`
+    - Replaced `Demolish` with `Adaptable`
+    - Removed all Engage Weapons
 
 #### person.xml
 
