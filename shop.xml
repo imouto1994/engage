@@ -322,11 +322,15 @@
 			<Param Condition="" Aid="AID_CasualBattle" />
 			<Param Condition="" Aid="AID_OriginalAccessory" />
 			<Param Condition="" Aid="AID_BattleOutfit" />
-			<Param Condition="M006" Aid="" />
 			<Param Condition="" Aid="AID_EngageMarth" />
 			<Param Condition="" Aid="AID_EngageMarthDye" />
 			<Param Condition="" Aid="AID_EngageSigurd" />
 			<Param Condition="" Aid="AID_EngageSigurdDye" />
+			<Param Condition="" Aid="AID_EngageCelica" />
+			<Param Condition="" Aid="AID_EngageCelicaDye" />
+			<Param Condition="M006" Aid="" />
+			<Param Condition="" Aid="AID_EngageMicaiah" />
+			<Param Condition="" Aid="AID_EngageMicaiahDye" />
 			<Param Condition="M007" Aid="" />
 			<Param Condition="" Aid="AID_ブロディアの高貴な服１" />
 			<Param Condition="" Aid="AID_ブロディアの平素な服１" />
@@ -334,11 +338,7 @@
 			<Param Condition="" Aid="AID_リトスの高貴な服２" />
 			<Param Condition="" Aid="AID_大きいサングラス" />
 			<Param Condition="" Aid="AID_色付きサングラス" />
-			<Param Condition="" Aid="AID_EngageCelica" />
-			<Param Condition="" Aid="AID_EngageCelicaDye" />
-			<Param Condition="" Aid="AID_EngageMicaiah" />
-			<Param Condition="" Aid="AID_EngageMicaiahDye" />
-			<Param Condition="M009" Aid="" />
+			<Param Condition="M008" Aid="" />
 			<Param Condition="" Aid="AID_EngageRoy" />
 			<Param Condition="" Aid="AID_EngageRoyDye" />
 			<Param Condition="" Aid="AID_EngageLeif" />
@@ -349,19 +349,20 @@
 			<Param Condition="" Aid="AID_フィレネの高貴な服２" />
 			<Param Condition="" Aid="AID_ブロディアの平素な服２" />
 			<Param Condition="" Aid="AID_太い黒ぶちメガネ" />
+			<Param Condition="M011" Aid="" />
+			<Param Condition="" Aid="AID_EngageLucina" />
+			<Param Condition="" Aid="AID_EngageLucinaDye" />
+			<Param Condition="" Aid="AID_EngageLyn" />
+			<Param Condition="" Aid="AID_EngageLynDye" />
+			<Param Condition="" Aid="AID_MorionArmor" />
+			<Param Condition="" Aid="AID_PromotedOutfit" />
 			<Param Condition="M012" Aid="" />
 			<Param Condition="" Aid="AID_ブロディアの高貴な服２" />
 			<Param Condition="" Aid="AID_リトスの高貴な服３" />
 			<Param Condition="" Aid="AID_ソルムの高貴な服１" />
 			<Param Condition="" Aid="AID_ソルムの平素な服１" />
 			<Param Condition="" Aid="AID_スカルマスク" />
-			<Param Condition="" Aid="AID_MorionArmor" />
-			<Param Condition="" Aid="AID_EngageLucina" />
-			<Param Condition="" Aid="AID_EngageLucinaDye" />
-			<Param Condition="" Aid="AID_EngageLyn" />
-			<Param Condition="" Aid="AID_EngageLynDye" />
 			<Param Condition="M013" Aid="" />
-			<Param Condition="" Aid="AID_PromotedOutfit" />
 			<Param Condition="" Aid="AID_EngageIke" />
 			<Param Condition="" Aid="AID_EngageIkeDye" />
 			<Param Condition="M014" Aid="" />
@@ -387,11 +388,14 @@
 			<Param Condition="" Aid="AID_DimitriOutfit" />
 			<Param Condition="" Aid="AID_ClaudeOutfit" />
 			<Param Condition="" Aid="AID_EngageEdelgardDye" />
+			<Param Condition="G002" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Aid="AID_EngageHector" />
-			<Param Condition="" Aid="AID_EngageSoren" />
-			<Param Condition="" Aid="AID_EngageCamilla" />
 			<Param Condition="" Aid="AID_EngageHectorDye" />
+			<Param Condition="G004" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Aid="AID_EngageSoren" />
 			<Param Condition="" Aid="AID_EngageSorenDye" />
+			<Param Condition="G005" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Aid="AID_EngageCamilla" />
 			<Param Condition="" Aid="AID_EngageCamillaDye" />
 		</Data>
 	</Sheet>
