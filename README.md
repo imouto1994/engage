@@ -21,6 +21,7 @@ Built on top of Battle Outfits Mod
     - Byleth Vajra - Arts (Normal & Glow)
     - Edelgard Failnaught - Bow (Normal & Glow)
     - Leif Killer Axe - Axe (Normal & Glow)
+    - Meteor - Tome (Normal)
 
 #### god.xml
 
