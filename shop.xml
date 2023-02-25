@@ -8,6 +8,7 @@
 			<Param Name="属性" Ident="Attribute" Type="s8" Min="" Max="" Chg="" />
 		</Header>
 		<Data>
+		    <!-- Shop Weapons (Chapter 4 Unlock) -->
 			<Param Condition="M004" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_ほそみの剣" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_鉄の剣" Stock="-1" Attribute="0" />
@@ -25,6 +26,41 @@
 			<Param Condition="" Iid="IID_ファイアー" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_初心の法" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_鉄身の法" Stock="-1" Attribute="0" />
+			<!-- Emblem Weapons (Chapter 4 Unlock: Marth, Sigurd, Celica) -->
+			<Param Condition="" Iid="IID_MarthRapierNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_MarthMercuriusNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_MarthFalchionNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_SigurdRidersbaneNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_SigurdBraveLanceNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_SigurdTyrfingNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_CelicaSeraphimNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_CelicaRagnarokNormalPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Marth Paralogue Unlock) -->
+			<Param Condition="S014" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_MarthRapierGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_MarthMercuriusGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_MarthFalchionGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Sigurd Paralogue Unlock) -->
+			<Param Condition="S009" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_SigurdRidersbaneGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_SigurdBraveLanceGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_SigurdTyrfingGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Celica Paralogue Unlock) -->
+			<Param Condition="S013" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_CelicaSeraphimGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_CelicaRagnarokGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Weapons (Chapter 6 Unlock) -->
+			<Param Condition="M006" Iid="" Stock="" Attribute="" />
+			<!-- Emblem Weapons (Chapter 6 Unlock: Micaiah) -->
+            <Param Condition="" Iid="IID_MicaiahShineNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_MicaiahNosferatuNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_MicaiahThaniNormalPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Micaiah Paralogue Unlock) -->
+			<Param Condition="S011" Iid="" Stock="" Attribute="" />
+            <Param Condition="" Iid="IID_MicaiahShineGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_MicaiahNosferatuGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_MicaiahThaniGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Weapons (Chapter 8 Unlock) -->
 			<Param Condition="M008" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アーマーキラー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_鉄の大剣" Stock="1" Attribute="0" />
@@ -45,6 +81,24 @@
 			<Param Condition="" Iid="IID_サンダー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_ウィンド" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_護身の法" Stock="1" Attribute="0" />
+			<!-- Emblem Weapons (Chapter 8 Unlock: Roy, Leif) -->
+			<Param Condition="" Iid="IID_RoyLancereaverNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_RoyWyrmslayerNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_RoyBindingBladeNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LeifKillerAxeNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LeifMasterLanceNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LeifLightBrandNormalPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Roy Paralogue Unlock) -->
+			<Param Condition="S012" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_RoyLancereaverGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_RoyWyrmslayerGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_RoyBindingBladeGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Leif Paralogue Unlock) -->
+			<Param Condition="S010" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_LeifKillerAxeGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LeifMasterLanceGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LeifLightBrandGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Weapons (Chapter 11 Unlock) -->
 			<Param Condition="M011" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アーマーキラー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_鉄の大剣" Stock="2" Attribute="0" />
@@ -72,6 +126,35 @@
 			<Param Condition="" Iid="IID_エルファイアー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_護身の法" Stock="2" Attribute="0" />
 			<Param Condition="" Iid="IID_鋼身の法" Stock="2" Attribute="0" />
+			<!-- Emblem Weapons (Chapter 11 Unlock: Lucina, Lyn) -->
+			<Param Condition="" Iid="IID_LucinaNobleRapierNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LucinaParthiaNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LucinaParallelFalchionNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LynKillerBowNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LynManiKattiNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LynMulagirNormalPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Lucina Paralogue Unlock) -->
+			<Param Condition="S003" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_LucinaNobleRapierGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LucinaParthiaGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LucinaParallelFalchionGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Lyn Paralogue Unlock) -->
+			<Param Condition="S004" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_LynKillerBowGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LynManiKattiGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_LynMulagirGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Weapons (Chapter 13 Unlock) -->
+			<Param Condition="M013" Iid="" Stock="" Attribute="" />
+			<!-- Emblem Weapons (Chapter 13 Unlock: Ike) -->
+			<Param Condition="" Iid="IID_IkeHammerNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_IkeUrvanNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_IkeRagnellNormalPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Ike Paralogue Unlock) -->
+			<Param Condition="S005" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_IkeHammerGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_IkeUrvanGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_IkeRagnellGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Weapons (Chapter 14 Unlock) -->
 			<Param Condition="M014" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アーマーキラー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_鉄の大剣" Stock="3" Attribute="0" />
@@ -111,6 +194,42 @@
 			<Param Condition="" Iid="IID_護身の法" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_鋼身の法" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_銀身の法" Stock="1" Attribute="0" />
+			<!-- Emblem Weapons (Chapter 14 Unlock: Byleth) -->
+			<Param Condition="" Iid="IID_BylethBlutgangNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_BylethVajraNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_BylethGoddessSwordNormalPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Byleth Paralogue Unlock) -->
+			<Param Condition="S006" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_BylethBlutgangGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_BylethVajraGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethGoddessSwordGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethLuinGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethAymrGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethAreadbharGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethFailnaughtGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Weapons (Chapter 15 Unlock) -->
+			<Param Condition="M015" Iid="" Stock="" Attribute="" />
+			<!-- Emblem Weapons (Chapter 15 Unlock: Corrin) -->
+			<Param Condition="" Iid="IID_CorrinKatanaNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_CorrinWakizashiNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_CorrinYatoNormalPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Corrin Paralogue Unlock) -->
+			<Param Condition="S007" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_CorrinKatanaGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_CorrinWakizashiGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_CorrinYatoGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Weapons (Chapter 16 Unlock) -->
+			<Param Condition="M016" Iid="" Stock="" Attribute="" />
+			<!-- Emblem Weapons (Chapter 16 Unlock: Eirika) -->
+			<Param Condition="" Iid="IID_EirikaRapierNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_EirikaWindSwordNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_EirikaSieglindeNormalPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Eirika Paralogue Unlock) -->
+			<Param Condition="S008" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_EirikaRapierGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_EirikaWindSwordGlowPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_EirikaSieglindeGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Weapons (Chapter 17 Unlock) -->
 			<Param Condition="M017" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_いかづちの剣" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_倭刀" Stock="1" Attribute="0" />
@@ -136,6 +255,7 @@
 			<Param Condition="" Iid="IID_ボルガノン" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_銀身の法" Stock="2" Attribute="0" />
 			<Param Condition="" Iid="IID_閃進の法" Stock="1" Attribute="0" />
+			<!-- Shop Weapons (Chapter 20 Unlock) -->
 			<Param Condition="M020" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_銀の剣" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_鋼の大剣" Stock="2" Attribute="0" />
@@ -166,7 +286,47 @@
 			<Param Condition="" Iid="IID_エクスカリバー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_銀身の法" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_閃進の法" Stock="1" Attribute="0" />
+			<!-- Shop Weapons (Chapter 23 Unlock) -->
 			<Param Condition="M023" Iid="" Stock="" Attribute="" />
+			<!-- Emblem Weapons (Chapter 23 Unlock: Alear) -->
+            <Param Condition="" Iid="IID_AlearOligoludiaNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_AlearDragonFistNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_AlearLyrationNormalPlayer" Stock="-1" Attribute="0" />
+			<!-- Glowing Emblem Weapons (Alear Paralogue Unlock) -->
+			<Param Condition="S015" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_AlearOligoludiaGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_AlearLyrationGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Weapons (DLC Paralogues) -->
+			<!-- Emblem Weapons (DLC Paralogue Unlock: Tiki) -->
+			<Param Condition="G001" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_EdelgardAymrNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_EdelgardAreadbharNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_EdelgardFailnaughtNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_EdelgardAymrGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_EdelgardAreadbharGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_EdelgardFailnaughtGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Emblem Weapons (DLC Paralogue Unlock: Hector) -->
+			<Param Condition="G002" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_HectorWolfBeilNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_HectorArmadsNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_HectorRuneswordNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_HectorWolfBeilGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_HectorArmadsGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_HectorRuneswordGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Emblem Weapons (DLC Paralogue Unlock: Soren) -->
+			<Param Condition="G004" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_SorenRexcaliburNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_SorenBoltingNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_SorenRexcaliburGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_SorenBoltingGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Emblem Weapons (DLC Paralogue Unlock: Camilla) -->
+			<Param Condition="G005" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_CamillaBoltAxeNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_CamillaLightningNormalPlayer" Stock="-1" Attribute="0" />
+            <Param Condition="" Iid="IID_CamillaAxeNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_CamillaBoltAxeGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_CamillaLightningGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_CamillaAxeGlowPlayer" Stock="-1" Attribute="0" />
 		</Data>
 	</Sheet>
 	<Sheet Name="道具屋" Count="88">
@@ -177,6 +337,7 @@
 			<Param Name="属性" Ident="Attribute" Type="s8" Min="" Max="" Chg="" />
 		</Header>
 		<Data>
+		    <!-- Shop Items (Chapter 4 Unlock) -->
 			<Param Condition="M004" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_ライブ" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_トーチ" Stock="1" Attribute="0" />
@@ -192,6 +353,12 @@
 			<Param Condition="" Iid="IID_魔力の薬" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_魔防の薬" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_たいまつ" Stock="1" Attribute="0" />
+			<!-- Emblem Items (Chapter 4 Unlock: Celica) -->
+			<Param Condition="" Iid="IID_CelicaRecoverStaffNormalPlayer" Stock="-1" Attribute="0" />
+			<!-- Emblem Items (Celica Paralogue Unlock) -->
+			<Param Condition="S013" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_CelicaRecoverStaffGlowPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Items (Chapter 8 Unlock) -->
 			<Param Condition="M008" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アイスロック" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_トーチ" Stock="-1" Attribute="0" />
@@ -211,6 +378,7 @@
 			<Param Condition="" Iid="IID_マスタープルフ" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_チェンジプルフ" Stock="3" Attribute="0" />
 			<Param Condition="" Iid="IID_たいまつ" Stock="2" Attribute="0" />
+			<!-- Shop Items (Chapter 11 Unlock) -->
 			<Param Condition="M011" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アイスロック" Stock="2" Attribute="0" />
 			<Param Condition="" Iid="IID_リライブ" Stock="-1" Attribute="0" />
@@ -224,9 +392,11 @@
 			<Param Condition="" Iid="IID_マスタープルフ" Stock="2" Attribute="0" />
 			<Param Condition="" Iid="IID_チェンジプルフ" Stock="3" Attribute="0" />
 			<Param Condition="" Iid="IID_たいまつ" Stock="-1" Attribute="0" />
+			<!-- Shop Items (Chapter 13 Unlock) -->
 			<Param Condition="M013" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_マスタープルフ" Stock="2" Attribute="0" />
 			<Param Condition="" Iid="IID_チェンジプルフ" Stock="3" Attribute="0" />
+			<!-- Shop Items (Chapter 14 Unlock) -->
 			<Param Condition="M014" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アイスロック" Stock="2" Attribute="0" />
 			<Param Condition="" Iid="IID_レスト" Stock="-1" Attribute="0" />
@@ -240,9 +410,16 @@
 			<Param Condition="" Iid="IID_特効薬" Stock="2" Attribute="0" />
 			<Param Condition="" Iid="IID_マスタープルフ" Stock="2" Attribute="0" />
 			<Param Condition="" Iid="IID_チェンジプルフ" Stock="3" Attribute="0" />
+			<!-- Emblem Items (Byleth Paralogue Unlock) -->
+			<Param Condition="S006" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_BylethAegisShieldPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethThyrsusPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethRafailGemPlayer" Stock="-1" Attribute="0" />
+			<!-- Shop Items (Chapter 16 Unlock) -->
 			<Param Condition="M016" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_マスタープルフ" Stock="2" Attribute="0" />
 			<Param Condition="" Iid="IID_チェンジプルフ" Stock="3" Attribute="0" />
+			<!-- Shop Items (Chapter 17 Unlock) -->
 			<Param Condition="M017" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アイスロック" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_リブロー" Stock="3" Attribute="0" />
@@ -256,6 +433,7 @@
 			<Param Condition="" Iid="IID_特効薬" Stock="3" Attribute="0" />
 			<Param Condition="" Iid="IID_マスタープルフ" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_チェンジプルフ" Stock="-1" Attribute="0" />
+			<!-- Shop Items (Chapter 20 Unlock) -->
 			<Param Condition="M020" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_コラプス" Stock="3" Attribute="0" />
 			<Param Condition="" Iid="IID_リカバー" Stock="1" Attribute="0" />
@@ -264,7 +442,10 @@
 			<Param Condition="" Iid="IID_毒消し" Stock="3" Attribute="0" />
 			<Param Condition="" Iid="IID_聖水" Stock="3" Attribute="0" />
 			<Param Condition="" Iid="IID_特効薬" Stock="3" Attribute="0" />
-			<Param Condition="M023" Iid="" Stock="" Attribute="" />
+			<!-- Emblem Items (DLC Prologue Unlock: Soren) -->
+			<Param Condition="G004" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_SorenReflectNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_SorenReflectGlowPlayer" Stock="-1" Attribute="0" />
 		</Data>
 	</Sheet>
 	<Sheet Name="蚤の市" Count="28">
@@ -275,6 +456,7 @@
 			<Param Name="属性" Ident="Attribute" Type="s8" Min="" Max="" Chg="" />
 		</Header>
 		<Data>
+		    <!-- Flea Market Shop (Chapter 13 Unlock) -->
 			<Param Condition="M013" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_無し" Stock="-1" Attribute="1" />
 			<Param Condition="" Iid="IID_無し" Stock="-1" Attribute="1" />
@@ -287,19 +469,24 @@
 			<Param Condition="" Iid="IID_無し" Stock="-1" Attribute="1" />
 			<Param Condition="" Iid="IID_無し" Stock="-1" Attribute="1" />
 			<Param Condition="" Iid="IID_はがねの晶石" Stock="10" Attribute="0" />
+			<!-- Flea Market Shop (Chapter 16 Unlock) -->
 			<Param Condition="M016" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_釣り竿Ⅱ" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_はがねの晶石" Stock="40" Attribute="0" />
+			<!-- Flea Market Shop (Chapter 18 Unlock) -->
 			<Param Condition="M018" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_はがねの晶石" Stock="100" Attribute="0" />
 			<Param Condition="" Iid="IID_ぎんの晶石" Stock="5" Attribute="0" />
+			<!-- Flea Market Shop (Chapter 20 Unlock) -->
 			<Param Condition="M020" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_釣り竿Ⅲ" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_はがねの晶石" Stock="100" Attribute="0" />
 			<Param Condition="" Iid="IID_ぎんの晶石" Stock="5" Attribute="0" />
+			<!-- Flea Market Shop (Chapter 23 Unlock) -->
 			<Param Condition="M023" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_はがねの晶石" Stock="100" Attribute="0" />
 			<Param Condition="" Iid="IID_ぎんの晶石" Stock="5" Attribute="0" />
+			<!-- Flea Market Shop (Chapter 26 / Post Game Unlock) -->
 			<Param Condition="M026" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_はがねの晶石" Stock="150" Attribute="0" />
 			<Param Condition="" Iid="IID_ぎんの晶石" Stock="35" Attribute="0" />
@@ -311,6 +498,7 @@
 			<Param Name="アイテム" Ident="Aid" Type="string" Min="" Max="" Chg="" />
 		</Header>
 		<Data>
+		    <!-- Boutique (Chapter 5 Unlock) -->
 			<Param Condition="M005" Aid="" />
 			<Param Condition="" Aid="AID_フィレネの高貴な服１" />
 			<Param Condition="" Aid="AID_フィレネの平素な服１" />
@@ -319,6 +507,7 @@
 			<Param Condition="" Aid="AID_鍛錬着" />
 			<Param Condition="" Aid="AID_ノーマル眼鏡" />
 			<Param Condition="" Aid="AID_四角い下縁メガネ" />
+			<!-- Battle Outfits & More Outfits (Chapter 5 Unlock) -->
 			<Param Condition="" Aid="AID_CasualBattle" />
 			<Param Condition="" Aid="AID_OriginalAccessory" />
 			<Param Condition="" Aid="AID_BattleOutfit" />
@@ -328,9 +517,12 @@
 			<Param Condition="" Aid="AID_EngageSigurdDye" />
 			<Param Condition="" Aid="AID_EngageCelica" />
 			<Param Condition="" Aid="AID_EngageCelicaDye" />
+			<!-- Boutique (Chapter 6 Unlock) -->
 			<Param Condition="M006" Aid="" />
+			<!-- Battle Outfits & More Outfits (Chapter 6 Unlock) -->
 			<Param Condition="" Aid="AID_EngageMicaiah" />
 			<Param Condition="" Aid="AID_EngageMicaiahDye" />
+			<!-- Boutique (Chapter 7 Unlock) -->
 			<Param Condition="M007" Aid="" />
 			<Param Condition="" Aid="AID_ブロディアの高貴な服１" />
 			<Param Condition="" Aid="AID_ブロディアの平素な服１" />
@@ -338,17 +530,21 @@
 			<Param Condition="" Aid="AID_リトスの高貴な服２" />
 			<Param Condition="" Aid="AID_大きいサングラス" />
 			<Param Condition="" Aid="AID_色付きサングラス" />
+			<!-- Boutique (Chapter 8 Unlock) -->
 			<Param Condition="M008" Aid="" />
+			<!-- Battle Outfits & More Outfits (Chapter 8 Unlock) -->
 			<Param Condition="" Aid="AID_EngageRoy" />
 			<Param Condition="" Aid="AID_EngageRoyDye" />
 			<Param Condition="" Aid="AID_EngageLeif" />
 			<Param Condition="" Aid="AID_EngageLeifDye" />
+			<!-- Boutique (Chapter 10 Unlock) -->
 			<Param Condition="M010" Aid="" />
 			<Param Condition="" Aid="AID_イルシオンの平素な服１" />
 			<Param Condition="" Aid="AID_イルシオンの高貴な服１" />
 			<Param Condition="" Aid="AID_フィレネの高貴な服２" />
 			<Param Condition="" Aid="AID_ブロディアの平素な服２" />
 			<Param Condition="" Aid="AID_太い黒ぶちメガネ" />
+			<!-- Boutique (Chapter 11 Unlock) -->
 			<Param Condition="M011" Aid="" />
 			<Param Condition="" Aid="AID_EngageLucina" />
 			<Param Condition="" Aid="AID_EngageLucinaDye" />
@@ -356,45 +552,59 @@
 			<Param Condition="" Aid="AID_EngageLynDye" />
 			<Param Condition="" Aid="AID_MorionArmor" />
 			<Param Condition="" Aid="AID_PromotedOutfit" />
+			<!-- Boutique (Chapter 12 Unlock) -->
 			<Param Condition="M012" Aid="" />
 			<Param Condition="" Aid="AID_ブロディアの高貴な服２" />
 			<Param Condition="" Aid="AID_リトスの高貴な服３" />
 			<Param Condition="" Aid="AID_ソルムの高貴な服１" />
 			<Param Condition="" Aid="AID_ソルムの平素な服１" />
 			<Param Condition="" Aid="AID_スカルマスク" />
+			<!-- Boutique (Chapter 13 Unlock) -->
 			<Param Condition="M013" Aid="" />
+			<!-- Battle Outfits & More Outfits (Chapter 13 Unlock) -->
 			<Param Condition="" Aid="AID_EngageIke" />
 			<Param Condition="" Aid="AID_EngageIkeDye" />
+			<!-- Boutique (Chapter 14 Unlock) -->
 			<Param Condition="M014" Aid="" />
+			<!-- Battle Outfits & More Outfits (Chapter 14 Unlock) -->
 			<Param Condition="" Aid="AID_EngageByleth" />
 			<Param Condition="" Aid="AID_EngageBylethDye" />
+			<!-- Boutique (Chapter 15 Unlock) -->
 			<Param Condition="M015" Aid="" />
+			<!-- Battle Outfits & More Outfits (Chapter 15 Unlock) -->
 			<Param Condition="" Aid="AID_EngageCorrin" />
 			<Param Condition="" Aid="AID_EngageCorrinDye" />
+			<!-- Boutique (Chapter 16 Unlock) -->
 			<Param Condition="M016" Aid="" />
 			<Param Condition="" Aid="AID_ソルムの高貴な服２" />
 			<Param Condition="" Aid="AID_ソルムの平素な服２" />
 			<Param Condition="" Aid="AID_水着1" />
 			<Param Condition="" Aid="AID_仮装マスク" />
+			<!-- Battle Outfits & More Outfits (Chapter 16 Unlock) -->
 			<Param Condition="" Aid="AID_EngageEirika" />
 			<Param Condition="" Aid="AID_EngageEirikaDye" />
+			<!-- Boutique (Chapter 20 Unlock) -->
 			<Param Condition="M020" Aid="" />
 			<Param Condition="" Aid="AID_イルシオンの高貴な服２" />
 			<Param Condition="" Aid="AID_イルシオンの平素な服２" />
 			<Param Condition="" Aid="AID_水着3" />
 			<Param Condition="" Aid="AID_眼帯" />
-			<Param Condition="M999" Aid="" />
+			<!-- Battle Outfits & More Outfits (DLC Paralogue: Tiki) -->
+			<Param Condition="G001" Aid="" />
 			<Param Condition="" Aid="AID_EngageEdelgard" />
+			<Param Condition="" Aid="AID_EngageEdelgardDye" />
 			<Param Condition="" Aid="AID_DimitriOutfit" />
 			<Param Condition="" Aid="AID_ClaudeOutfit" />
-			<Param Condition="" Aid="AID_EngageEdelgardDye" />
-			<Param Condition="G002" Iid="" Stock="" Attribute="" />
+			<!-- Battle Outfits & More Outfits (DLC Paralogue: Hector) -->
+			<Param Condition="G002" Aid="" />
 			<Param Condition="" Aid="AID_EngageHector" />
 			<Param Condition="" Aid="AID_EngageHectorDye" />
-			<Param Condition="G004" Iid="" Stock="" Attribute="" />
+			<!-- Battle Outfits & More Outfits (DLC Paralogue: Soren) -->
+			<Param Condition="G004" Aid="" />
 			<Param Condition="" Aid="AID_EngageSoren" />
 			<Param Condition="" Aid="AID_EngageSorenDye" />
-			<Param Condition="G005" Iid="" Stock="" Attribute="" />
+			<!-- Battle Outfits & More Outfits (DLC Paralogue: Camilla) -->
+			<Param Condition="G005" Aid="" />
 			<Param Condition="" Aid="AID_EngageCamilla" />
 			<Param Condition="" Aid="AID_EngageCamillaDye" />
 		</Data>
