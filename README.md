@@ -44,6 +44,7 @@ Built on top of Battle Outfits Mod
 
 - Fixed Arts damage calculation to be `Max (STR, MAG)` instead of `(STR + MAG) / 2`
 - Changed Lapis Personal Skill to `+10 Crit` instead of `-10 Crit`
+- Changed Ivy Personal Skill from `+20 Hit to same previous target` to `100% Double Attack`
 - Changed Lindwurm Class Skill:
     - Changed probability from `%DEX` to fixed `80%`
     - Scaled with `ENEMY RES` instead of `ENEMY MAG`
