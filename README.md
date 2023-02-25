@@ -21,7 +21,13 @@ Built on top of Battle Outfits Mod
     - Byleth Vajra - Arts (Normal & Glow)
     - Edelgard Failnaught - Bow (Normal & Glow)
     - Leif Killer Axe - Axe (Normal & Glow)
-    - Meteor - Tome (Normal)
+    - Meteor - Tome (Normal only)
+    - Roy Binding Blade - Sword (Normal & Glow)
+    - Lyn Mani Katti - Sword (Normal & Glow)
+    - Byleth Sword of the Creator - Sword (Normal & Glow)
+    - Corrin Yato - Sword (Normal & Glow)
+    - Leif Master Lance - Lance (Normal & Glow)
+    - Byleth Luin - Lance (Glow only)
 
 #### god.xml
 

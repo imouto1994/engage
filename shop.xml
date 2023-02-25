@@ -48,6 +48,10 @@
 			<Param Condition="" Iid="IID_LeifKillerAxeNormalPlayer" Stock="-1" 
 			Attribute="0" />]
 			<Param Condition="" Iid="IID_LeifKillerAxeGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_RoyBindingBladeNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_RoyBindingBladeGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_LeifMasterLanceNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_LeifMasterLanceGlowPlayer" Stock="-1" Attribute="0" />
 			<Param Condition="M011" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アーマーキラー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_鉄の大剣" Stock="2" Attribute="0" />
@@ -75,6 +79,8 @@
 			<Param Condition="" Iid="IID_エルファイアー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_護身の法" Stock="2" Attribute="0" />
 			<Param Condition="" Iid="IID_鋼身の法" Stock="2" Attribute="0" />
+			<Param Condition="" Iid="IID_LynManiKattiNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_LynManiKattiGlowPlayer" Stock="-1" Attribute="0" />
 			<Param Condition="M014" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アーマーキラー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_鉄の大剣" Stock="3" Attribute="0" />
@@ -116,6 +122,12 @@
 			<Param Condition="" Iid="IID_銀身の法" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_BylethVajraNormalPlayer" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_BylethVajraGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethGoddessSwordNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethGoddessSwordGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethLuinGlowPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="M015" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_CorrinYatoNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_CorrinYatoGlowPlayer" Stock="-1" Attribute="0" />
 			<Param Condition="M017" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_いかづちの剣" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_倭刀" Stock="1" Attribute="0" />
