@@ -45,6 +45,9 @@
 			<Param Condition="" Iid="IID_サンダー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_ウィンド" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_護身の法" Stock="1" Attribute="0" />
+			<Param Condition="" Iid="IID_LeifKillerAxeNormalPlayer" Stock="-1" 
+			Attribute="0" />]
+			<Param Condition="" Iid="IID_LeifKillerAxeGlowPlayer" Stock="-1" Attribute="0" />
 			<Param Condition="M011" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アーマーキラー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_鉄の大剣" Stock="2" Attribute="0" />
@@ -111,6 +114,8 @@
 			<Param Condition="" Iid="IID_護身の法" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_鋼身の法" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_銀身の法" Stock="1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethVajraNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_BylethVajraGlowPlayer" Stock="-1" Attribute="0" />
 			<Param Condition="M017" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_いかづちの剣" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_倭刀" Stock="1" Attribute="0" />
@@ -167,6 +172,9 @@
 			<Param Condition="" Iid="IID_銀身の法" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_閃進の法" Stock="1" Attribute="0" />
 			<Param Condition="M023" Iid="" Stock="" Attribute="" />
+			<Param Condition="G001" Iid="" Stock="" Attribute="" />
+			<Param Condition="" Iid="IID_EdelgardFailnaughtNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_EdelgardFailnaughtGlowPlayer" Stock="-1" Attribute="0" />
 		</Data>
 	</Sheet>
 	<Sheet Name="道具屋" Count="88">

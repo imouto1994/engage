@@ -4,11 +4,23 @@
 
 Built on top of Battle Outfits Mod
 
+#### assettable.xml
+
+- Update assets to include new weapons
+
 #### shop.xml
 
 - Flea market now sells Steel Iron & Silver Iron in infinite amount after Chapter 16
 - Flea market now sells all Augment Materials in infinite amount after Chapter 18
 - Costume shop now sells all swimsuit outfits after Chapter 16
+- Update weapon shops to include new weapons in respective chapters
+
+#### item.xml
+
+- Added Emblem Weapons:
+    - Byleth Vajra - Arts (Normal & Glow)
+    - Edelgard Failnaught - Bow (Normal & Glow)
+    - Leif Killer Axe - Axe (Normal & Glow)
 
 #### god.xml
 
