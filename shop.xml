@@ -25,6 +25,8 @@
 			<Param Condition="" Iid="IID_ファイアー" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_初心の法" Stock="-1" Attribute="0" />
 			<Param Condition="" Iid="IID_鉄身の法" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_MarthRapierNormalPlayer" Stock="-1" Attribute="0" />
+			<Param Condition="" Iid="IID_MarthRapierGlowPlayer" Stock="-1" Attribute="0" />
 			<Param Condition="M008" Iid="" Stock="" Attribute="" />
 			<Param Condition="" Iid="IID_アーマーキラー" Stock="1" Attribute="0" />
 			<Param Condition="" Iid="IID_鉄の大剣" Stock="1" Attribute="0" />

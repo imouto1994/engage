@@ -28,6 +28,7 @@ Built on top of Battle Outfits Mod
     - Corrin Yato - Sword (Normal & Glow)
     - Leif Master Lance - Lance (Normal & Glow)
     - Byleth Luin - Lance (Glow only)
+    - Marth Rapier - Sword (Normal & Glow)
 
 #### god.xml
 
